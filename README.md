@@ -75,8 +75,7 @@ fetal-health-classification/
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/travis-moll-4974a21a9)
-- 📧 travis@example.com (update this to your real email!)
-
+  
 ---
 
 ## 🧠 Future Improvements
